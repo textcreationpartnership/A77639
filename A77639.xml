@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority of England, the Parliament assembled, the scope of the humble remembrance of that prodigious conspiracy, called the bloody petition, to be humbly presented by David Brown and his family, as discoverers thereof, besides, many other discoveries and faithful services: whereunto is annexed, their humble petition for assistance towards the repairing of certain wrongs, done unto them by Lieutenant Colonel John Lilborn, Samuel Chidley, John Musgrave, and some others.</title>
+            <author>Brown, David, fl. 1650-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77639</idno>
+            <idno type="STC">Wing B5015</idno>
+            <idno type="STC">Thomason E651_30</idno>
+            <idno type="STC">ESTC R205866</idno>
+            <idno type="EEBO-CITATION">99865110</idno>
+            <idno type="PROQUEST">99865110</idno>
+            <idno type="VID">117347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117347)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority of England, the Parliament assembled, the scope of the humble remembrance of that prodigious conspiracy, called the bloody petition, to be humbly presented by David Brown and his family, as discoverers thereof, besides, many other discoveries and faithful services: whereunto is annexed, their humble petition for assistance towards the repairing of certain wrongs, done unto them by Lieutenant Colonel John Lilborn, Samuel Chidley, John Musgrave, and some others.</title>
+                  <author>Brown, David, fl. 1650-1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>165[2]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: David Brvvon [sic].</note>
+                  <note>Annotation on Thomason copy: "January 22." Thomason supplied the "2" in the imprint date.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chidley, Samuel.</term>
+               <term>Musgrave, John, fl. 1654.</term>
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117347:1" rendition="simple:additions"/>
+            <p>TO THE SUPREAM AUTHORITY OF ENGLAND, the PARLIAMENT aſſembled, The SCOPE of the humble REMEMBRANCE Of that Prodigious CONSPIRACY, CALLED The BLOODY PETITION, To be Humbly preſented By <hi>DA<g ref="char:V">Ʋ</g>ID BROWN</hi> and his Family, as Diſcoverers thereof, BESIDES, Many other Diſcoveries and faithful Services:</p>
+            <p>Whereunto is annexed, Their humble Petition for Aſsiſtance to<g ref="char:EOLhyphen"/>wards the Repairing of certain Wrongs, done unto them by Lieutenanant Colonel <hi>John Lilborn, Samuel Chidley, John Muſgrave,</hi> and ſome others.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of ENGLAND, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117347:2"/>
+            <pb n="3" facs="tcp:117347:2"/>
+            <head>TO THE SUPREAM AUTHORITY OF ENGLAND, the Parliament aſſembled:</head>
+            <argument>
+               <p>The <hi>Scope</hi> of the humble <hi>Remembrance</hi> of that moſt prodigious Conſpiracy, called the <hi>Bloody-Petition,</hi> to be humbly preſented by <hi>David Brown</hi> Gent. and his family, as diſcoverers thereof, beſides many other diſcoveries and faithful ſervices; whereunto is annexed, their humble Petition for aſsiſtance, to<g ref="char:EOLhyphen"/>wards the repairing of certain Wrongs done unto them by Lieutenant Colonel <hi>John Lilburn, Samuel Chidley, John Muſgrave,</hi> and ſome others,</p>
+            </argument>
+            <opener>SHEW,</opener>
+            <p>THat in conſideration of the manifold unex<g ref="char:EOLhyphen"/>pected Victories which it hath pleaſed the Lord of Hoſts (in his undeſerved mercy) to vouchſafe upon this Nation, and chiefly up<g ref="char:EOLhyphen"/>on your Honors, whom He hath ſo highly advanced as to repreſent the Face and Authority thereof againſt all Oppoſers, during all theſe cruel and deſtructive Wars, in reference to the Recovery and Defence of all our juſt Freedoms.</p>
+            <p>Which days of ſo great troubles, though they were
+<pb n="4" facs="tcp:117347:3"/>the Seed-time of Tears and Sorrows in their dark evening, yet now in regard of the happy Harveſt there<g ref="char:EOLhyphen"/>of, reaping ſo great fruits of Joy and Comfort in this bright morning, as our bleſſed Redeemer ſaid to the Jews in another caſe, <hi>Many of the beſt Prophets and moſt righteous of our predeceſſors</hi> (who onely for his Cauſe have been driven to wilderneſſes) <hi>would have much rejoyced to ſee, but could not ſee them, and to hear the things which we hear, but could not hear them.</hi>
+            </p>
+            <p>And alſo in conſideration of your Honors dutiful Remembrance of every ſpecial Victory and Delivery, at leaſt, which God hath been pleaſed to give you throughout all theſe Wars, by an appointed day of Thankſgiving to that purpoſe; and now of late by a commendable Act, Ordaining a conſtant day every year to be kept in commemoration of the laſt; but yet ſtill (through the multiplicity of your weighty and ur<g ref="char:EOLhyphen"/>gent affairs) ſeeming to forget, or (at leaſt) not ſo effe<g ref="char:EOLhyphen"/>ctually to remember the firſt.</p>
+            <p>In order therefore, to the reviving of that prime and original Victory and Delivery out of the grave of ob<g ref="char:EOLhyphen"/>livion, as the chief terreſtrial fountain from which all the reſt have flowed, and that it may have as durable a continuance (at leaſt) as the laſt, which is now ſo recent and in moſt mens eſteem ſo excellent; though neither it, nor any other, for many hundreds of years (as we humbly conceive) was ſo dangerous, immi<g ref="char:EOLhyphen"/>nent, and inevitable as the former, which (God wil<g ref="char:EOLhyphen"/>ling) in the <hi>Remembrance</hi> it ſelf, by comparing thereof with any of the greateſt, ſhall be made to appear.</p>
+            <p>We your Honors humble ſervants, by whoſe in<g ref="char:EOLhyphen"/>ſtrumental means of Diſcovery by word and writing,
+<pb n="5" facs="tcp:117347:3"/>your Honors had that matchleſs Victory and Deli<g ref="char:EOLhyphen"/>very, which the great God of Battels (out of the ocean of his infinite compaſſions) was graciouſly pleaſed to give you, and this long enſlaved Nation by his Al<g ref="char:EOLhyphen"/>mighty power, without any weapons of War; even when ye had neither Strength, Inſtruments, nor Means to reſiſt your numerous and mighty Adverſa<g ref="char:EOLhyphen"/>ries, nor ſo much as the leaſt apprehenſion of your own dangers; do in all due reſpect, humbly beſeech your Honors, that ye will be pleaſed never to let ſlip out of your memories, whiles ye enjoy your natural lives, this ſo gracious and ſpecial a favour, which both is ſtill to many thouſands ſo conſpicuous and remark<g ref="char:EOLhyphen"/>able, &amp; was then to your ſelves and all your adherents ſo joyful and acceptable, that ye ſent Sir <hi>Henry Vane junior,</hi> to give us the Thanks of the Houſe; even when all was finiſhed, and the chief Conſpirators impriſon<g ref="char:EOLhyphen"/>ed: ſaving onely ye were ſo over-acted, that no Conſpiracies yet durſt be ſo intituled, until afterwards that upon their miſcarriage (through diſcovery of this their main hope) they break out firſt into bold Inſurrections, and then into bloody Wars, which have continued to this day.</p>
+            <p>But that unanimouſly according as ye ſee your own duties, and wiſh a further increaſe of bleſsings from heaven upon all your earthly endeavors, your Ho<g ref="char:EOLhyphen"/>nors will be pleaſed with all the convenient ſpeed that may be (in this ſo happy an opportunity, which ſo many years with ſo great patience we have expect<g ref="char:EOLhyphen"/>ed) firſt, to ſearch your own Records of Parliament for the true Relation thereof, beginning on the 28. day of the firſt moneth (called <hi>March</hi>) in the year of
+<pb n="6" facs="tcp:117347:4"/>Chriſt, 1642. and continuing all the ſecond Moneth following, as it was by word and writing faithfully diſcovered by us unto you, upon divers occaſions in publick when ye were aſſembled in the Houſe: next, to ſearch thoſe of the late Houſe of Lords; and laſt, of the general Committee of both Lords and Commons.</p>
+            <p>All which being likewiſe truly extracted, read, conſidered, and compared with any other Victory or Delivery, either over a mighty Army by foreign In<g ref="char:EOLhyphen"/>vaſion, dangerous Inſurrection, or treacherous Con<g ref="char:EOLhyphen"/>ſpiracy that hath been ſince that time (of which moſt probably none had been at all, but both ye and all your trueſt friends and well-willers ſuddenly deſtroy<g ref="char:EOLhyphen"/>ed, without any the leaſt means uſed either of De<g ref="char:EOLhyphen"/>fence or Reſiſtance, if that infernal Conſpiracy had not been ſo timely diſcovered and happily prevented) yea, and notice being likewiſe taken of what is here in brief, and of what will follow in the <hi>Remembrance</hi> it ſelf at large, then we doubt not but your Honors ſhall finde as great cauſe, at leaſt, to make an Act for keeping a certain day of Thankſgiving every year moſt ſolemnly unto the Infinite Majeſty of our good and gracious God, for that great Victory and Deli<g ref="char:EOLhyphen"/>very, as ever ye had for any Victory or Delivery ſince theſe Wars began, yea, or your Predeceſſors before you, ſince <hi>England</hi> was a Nation.</p>
+            <p>But for ſome further Information at preſent, unto ſuch of your Honors as were not then choſen Mem<g ref="char:EOLhyphen"/>bers of the Houſe, then the bare title of the <hi>Bloody-Petition</hi> (which though diſcovered and burned, yet a rectified Copy thereof (to face out the matter with
+<pb n="7" facs="tcp:117347:4"/>ſome ſhew of goodneſs) was preſented by three hun<g ref="char:EOLhyphen"/>dred men, upon delivery of their Swords and drawing up of <hi>London</hi> Bridge, leſt the number had multiplied) this Conſpiracy ſhould have been acted (if God had permitted) both upon the Parliament and Well-af<g ref="char:EOLhyphen"/>fected People throughout all the three Nations, even when it would have been accounted Treaſon for them in the higheſt degree, to call either Army or Guard for their own Defence; and that by forty thou<g ref="char:EOLhyphen"/>ſand armed Malignants out of <hi>Kent,</hi> with the aſ<g ref="char:EOLhyphen"/>ſiſtance of all their numerous and mighty Confede<g ref="char:EOLhyphen"/>rates both in the City and Countrey, under pretence of preſenting a juſt Petition to the Parliament, which (in reference to the matter and end) was forged by the Popiſh Faction then at <hi>York,</hi> and preſented by Sir <hi>Edward Deering</hi> (who then had been lately expelled the Parliament) even in a diſſembled imitation of thoſe five thouſand men who brought a juſt Petition indeed out of <hi>Buckinghamſhire,</hi> on that glorious Sun<g ref="char:EOLhyphen"/>ſhine day (to all perſecuted and well-principled peo<g ref="char:EOLhyphen"/>ple) that the Parliament was honourabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> releaſed from their unnatural Exile at <hi>Grocers-Hall, London,</hi> (as they had juſtly releaſed both the Exiled and Cap<g ref="char:EOLhyphen"/>tivated <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore) and returned home to ſit in their wont<g ref="char:EOLhyphen"/>ed place, it being the very next day after the late king went from the Parliament, and ſleighted that preſum<g ref="char:EOLhyphen"/>ptuous Court of Guard at <hi>White-Hall,</hi> which was ſo unjuſtly ſet up (when Sin was ripe for the ſickle) to make all honeſt Petitioners who brought juſt Petiti<g ref="char:EOLhyphen"/>ons to your Honors for redreſs of their Grievances, ſtand.</p>
+            <p>And for your Honors better receiving both of what
+<pb n="8" facs="tcp:117347:5"/>Truth is here declared, and will be more at large (with Gods aſſiſtance) upon further occaſion mani<g ref="char:EOLhyphen"/>feſted, we humbly deſire (among other things) it may be ſeriouſly conſidered, that we your humble <hi>Remembrancers</hi> are not meerly Diſcoverers of this one Buſineſs, as ſome have been of one particular, or o<g ref="char:EOLhyphen"/>ther, ſince that time, and have willingly done no more, neither before nor after in reference to the Publique good; which notwithſtanding was no ſmall ſervice, more then that of <hi>Mordecai,</hi> concerning the ſaving of one life, which king <hi>Ahaſhuerus,</hi> though both he a Heathen and the other a ſtranger, was ſo far from ſleighting or deſpiſing, like that poor wiſe Mans ſer<g ref="char:EOLhyphen"/>vice ſpoken of by the wiſeſt of men, who by his wiſ<g ref="char:EOLhyphen"/>dom delivered a little Cith wherein there was but few men, from all the Forces of a great King; that he out of his ingenuity and noble diſpoſition for his own ho<g ref="char:EOLhyphen"/>nor and crecit, ſo reſpected that worthy inſtrument of his ſafety, that he without the leaſt requeſt of any, both naturalized him, and eternized his favor towards him and all of his Nation, as wel as Religion for his ſake unto all poſterities, ſo far as lay in his power: But we have made many other Diſcoveries, and done abundance of other Services, which although they were never publiſhed in Books, at leaſt under any of our names, alwayes chuſing rather to advance the Publique Cauſe in ſecret, then to be eminent either for popular applauſe, or private reſpect; yet now being forced by the manifold Caluminations, corrupt Practices and unjuſt Dealings of ſome Deceitful, Ambitious and Covetous people, to make ſome Vin<g ref="char:EOLhyphen"/>dications of our own Integrity, Actings and Suffer<g ref="char:EOLhyphen"/>ings,
+<pb n="9" facs="tcp:117347:5"/>even in the worſt of times, and greateſt of dan<g ref="char:EOLhyphen"/>gers, both for the Publique good of theſe Nations in general, and even of the ſame men, and others of the like principles, as well at leaſt, as of our ſelves in particular; which being more grievous to us (in re<g ref="char:EOLhyphen"/>gard thoſe men were as near and dear to us, almoſt as <hi>Jonathan</hi> was to <hi>David</hi>) then thrice ſo many afflicti<g ref="char:EOLhyphen"/>ons for the Publique, like thoſe which <hi>David</hi> ſuffered of his own ſon <hi>Abſolom,</hi> and of <hi>Achitophel</hi> with whom he converſed, being worſe then man of the reſt; All which (we hope) ſhall be made at large to appear, as they are onely mentioned in the Frontiſpiece and Contents of a Book, here following briefly in order.</p>
+            <p>
+               <hi>Seventy years Memorial</hi> of a reſolute Soldiers warfare, both in <hi>England,</hi> and <hi>Scotland,</hi> firſt againſt Corruptions, Deluſions and Frailties, and next againſt the Abominations of Churches, and Iniqui<g ref="char:EOLhyphen"/>ties of States, ſhewing to the great praiſe of Gods rich Grace; In order to the one, His manifold happy Victories after divers ſad ſurprizals; and to the other, His and his Families matchleſs Diſcoveries, mighty Attempts, grievous Sufferings, manifold Loſſes, great Hinderances, and exceſſive Charges, (beſides their unavoidable ſhare of all the general Calamities, even death it ſelf; ſome of their children being ſtoned in the ſtreets for their Cauſe, and others left for death, yea, and above a hundred times driven from their Habitations and Poſſeſſions; ſome where<g ref="char:EOLhyphen"/>of, were Three hundred miles by Land with ſmall Children a whole Moneth on the way divers times) all in relation to the Recovery and Defence both of Spiritual and Temporal Freedoms, and that through<g ref="char:EOLhyphen"/>out
+<pb n="10" facs="tcp:117347:6"/>all Dangers and Difficulties in the Revolution of States, Neceſſities and Extremities in the alteration of times.</p>
+            <p>And likewiſe, through the ſame Grace, with what Fidelity, Magnanimity and Conſtancy (yea, and re<g ref="char:EOLhyphen"/>ſolved Perſeverance alſo to the end) both during all theſe cruel Wars, and thrice ſo many years before (even when the very word <hi>[Parliament]</hi> durſt not be ſo much as mentioned) they have not onely aſſiſted, encouraged and incited other Actors and Sufferers, yea, and helped to defend the Parliament both day and night when they could have none others, but a few ſuch free Voluntiers, againſt multitudes of ſtrong cruel Enemies; but likewiſe, by means of Printing, both informed the generality of the people, who were always readier to be deceived then recovered, and vindicated the Parliament and Army, when they were unjuſtly oppoſed, traduced, and in great danger to be deluded by fair pretences of Covenant, known Laws, Proteſtant Religion and Reformation, even when no other means, either of the Word or Sword could avail, far leſs prevail in the proſecution of the Publique Cauſe; for which all the Millions of Lives, Treaſures and Eſtates have been ſpent.</p>
+            <p>Though always with little earthly encouragement, leſs Maintenance or Aſsiſtance, and not any the leaſt meaſure of reparation or degree of ſatisfaction; nor in reference to either, any kinde of due or competent conſideration, but large addition of trouble and affli<g ref="char:EOLhyphen"/>ction, by the indirect means of falſe Brethren, and policy of ſelf-ſeeking, crafty and deceitful People, one of whoſe lives we have preſerved, another to a
+<pb n="11" facs="tcp:117347:6"/>great Eſtate preferred, and of the third to the laſt great kindneſs have deſerved, but with many evils have been rewarded, howbeit, none of them (ſaving one woman) be ſo old in years as we have been ſuffer<g ref="char:EOLhyphen"/>ers, in order to that long expected Freedom, which is now (by Divine Providence) in Agitation, <hi>Gal.</hi> 5.1. <hi>Acts</hi> 22.28. <hi>Eſther</hi> 6.3. 2 <hi>Sam.</hi> 2.5. Solemn De<g ref="char:EOLhyphen"/>claration of both Nations, <hi>Ianuary</hi> 30. 1643.</p>
+            <p>Moreover, we in all due humility beſeech your Ho<g ref="char:EOLhyphen"/>nors to bear with our Prolixity, becauſe it is the firſt Suit in writing that ever we made to your Honors (ei<g ref="char:EOLhyphen"/>ther ſince the aforeſaid diſcovery, or before, for that deliverance of a Paſtor and Church then in Priſon, was granted by your Honors onely upon my word, at Mr. <hi>Lilborns</hi> Requeſt to me, he ſeeing me able to be heard, though it had been in a greater matter) and like<g ref="char:EOLhyphen"/>wiſe, That your Honors will be pleaſed the rather to vouchſafe your Audience and Patience to hear and conſider theſe few other needful Particulars.</p>
+            <p>As your Honors (to your endleſs Fame) upon the Victory at <hi>Dunbar,</hi> were moved ſo thankfully to ac<g ref="char:EOLhyphen"/>knowledge Gods ineſtimable and unexpected Mercy then (amongſt multitudes of his tender Compaſſions before) as to grant unto his Church and People under your Authority, ſo happy a Deliverance from all Spi<g ref="char:EOLhyphen"/>ritual Slavery, that ſcarce the like is any where with<g ref="char:EOLhyphen"/>out your Dominions, even that worthy Act for ten<g ref="char:EOLhyphen"/>der Conſciences: ſo we humbly beſeech your Ho<g ref="char:EOLhyphen"/>nors to proceed and perſevere in all the Particulars of well-doing, both concerning Religion and Proſperity of the Nation, eſpecially the aboliſhing of Tithes and all Popiſh Innovations, with all corrupt, unjuſt
+<pb n="12" facs="tcp:117347:7"/>and tedious Laws; as alſo the ſubjecting of all In<g ref="char:EOLhyphen"/>tailed Lands, to the payment of all the owners juſt Debts, beginning at the deceaſe of Queen <hi>Elizabeth,</hi> and eſtabliſhing that Office of General Remem<g ref="char:EOLhyphen"/>brance, both which being already Voted; and doing of whatſoever things elſe which may beſt and ſpe<g ref="char:EOLhyphen"/>dieſt bring this Nation to a happy condition of Eree<g ref="char:EOLhyphen"/>dom, Trading, Proſperity and Tranquility, that the adjoyning Nations may reap the like benefit, chiefly the poor Commons of <hi>Scotland,</hi> who have been en<g ref="char:EOLhyphen"/>ſlaved, blindfolded and impoveriſhed for many hun<g ref="char:EOLhyphen"/>dreds of years, by means of their cruel Taskmaſters, and that ye may gain the Peoples Affections of all the three Nations; which with ſome other matters of publique concernment, I ſum up and refer unto an<g ref="char:EOLhyphen"/>other <hi>Remembrance;</hi> likewiſe, even of that remark<g ref="char:EOLhyphen"/>able Paſſage in his Excellencies the Lord Generals Letter from <hi>Dunbar,</hi> as it is printed on the Tenth page, beginning at the third line, and ending at the One and thirtieth: The words are theſe,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>It is in your hands, and by theſe eminent Mercies, God puts more into your hands to give glory to him, to improve your Power and his Bleſsings to his Praiſe; we that ſerve you beg of you, not to own us but God alone; we pray own his People more and more, for they are the Chariots and Horſmen of</hi> Iſrael; <hi>diſown your ſelves, but own your Authority, and improve it to curb the Proud and Inſolent, ſuch as would diſturb the Tran<g ref="char:EOLhyphen"/>quility
+of</hi> England, <hi>though under what ſpecious Pre<g ref="char:EOLhyphen"/>tences ſoever, relieve the Oppreſſed, hear the Groans of your poor Priſoners in</hi> England; <hi>Be pleaſed to re<g ref="char:EOLhyphen"/>form
+<pb n="13" facs="tcp:117347:7"/>the abuſes of all Profeſsions, and if there be any one that makes many poor to make a few rich, that ſuits not a Commonwealth. If he that ſtrengthens your Ser<g ref="char:EOLhyphen"/>vants to fight, pleaſes to give you hearts to ſet upon theſe things in order to his glory, and the glory of your Commonwealth, beſides the benefit that</hi> England <hi>ſhall feel thereby, ye ſhall ſhine forth to other Nations, who ſhall emulate the glory of ſuch a pattern,
+and through the Power of God turn into the like. Theſe are our de<g ref="char:EOLhyphen"/>ſires, and that ye may have liberty and opportunity to do theſe things, and not be hindred, we have been and ſhall be (by Gods aſsiſtance) willing to venture our lives, and not deſire ye ſhould be precipitated by im<g ref="char:EOLhyphen"/>portunity from your care of Safety and Preſervation, but that the doing of theſe good things may have their place amongſt thoſe which concern wel-being, and ſo be wrought in their due time and order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The premiſes being ſeriouſly read and conſidered, our humble and earneſt Deſires are, That as your Ho<g ref="char:EOLhyphen"/>nors out of your diſcretion and ingenuity ſhall ſee juſt cauſe, the ſame may be accordingly acted, anſwered or referred; and withal, That as we have (to our ut<g ref="char:EOLhyphen"/>moſt abilities) faithfully &amp; conſtantly adhered to your Honors in all your Extremities, ſo ye will be pleaſed in much compaſsion (becauſe of our greater
+affliction now then ever heretofore, by the indirect means of the aforementioned People; and being out of breath alſo by multitudes of former afflictions for the Pub<g ref="char:EOLhyphen"/>lique) to vouchſafe your beſt aſſiſtance in protecting us, not onely from all ſuch further Arreſts for ſuch Debts in reference to the Commonwealths, which
+<pb n="14" facs="tcp:117347:8"/>may be juſtly called theirs, becauſe they and their Aſſociates did unjuſtly diſpoſe of the privy Contri<g ref="char:EOLhyphen"/>butions of many well-affected People (chiefly thoſe whereof the ſecond party above ſpecified was Trea<g ref="char:EOLhyphen"/>ſurer) on Printing ſome idle Projects when the Army lay at <hi>Putney,</hi> and when the Parliament was called a Juncto, which ſhould have paid thoſe former Debts, with our Disburſments and Engagements above our power, to Printers, Stationers and others, upon that accompt, for Printing abundantly to the Vindication of both Parliament and Army againſt all railing Pam<g ref="char:EOLhyphen"/>phlets; as alſo to the inciting of the People to adhere unto them, when no other means was ſo forcible, but likewiſe from all other Indempnities, Troubles and Dangers, in the proſecution of this our juſt Cauſe, both for theſe and other matters, eſpecially, becauſe they count us Strangers; although they themſelves (by thoſe and the like fruits) ſhall appear much more to be both Strangers and Enemies to all goodneſs; for as in a ſpiritual ſenſe, <hi>Egyptians</hi> and <hi>Ethiopians</hi> walking faithfully, are eſteemed in the word of God to be born in <hi>Sion;</hi> ſo in a temporal ſenſe, all Scots or others, who have been all along theſe Troubles (at leaſt) true and faithful to this Commonwealth; chief<g ref="char:EOLhyphen"/>ly ſuch as have both
+adventured their Lives and ſpent their Eſtates in defence thereof, may be juſtly eſteem<g ref="char:EOLhyphen"/>ed in all reſpects, as if they had been born in <hi>England,</hi> yea in the chiefeſt and beſt place of <hi>London</hi> it ſelf.</p>
+            <p>And becauſe Printing hath been their chiefeſt Weapon, and by that occaſion they having great correſpondency with the Printers; and ſome of them ready enough to Print what they pleaſe againſt us, even
+<pb n="15" facs="tcp:117347:8"/>with the ſame Moneys which ſhall be made appear they unjuſtly detain from us. We humbly beſeech your Honors to give Order, either to your own Printer or any other in our behalf, to Print both by way of Quere and otherwiſe, ſuch things as we have againſt the aforeſaid perſons, and other their Aſſociates; which with their poſitive Anſwers may be an effectual means, not onely to procure us Juſtice and Reparations of their deceitful and wrongous dealings, but to undeceive the people who had ſome further conceit of thoſe mens love to the Publique, then meerly obtaining their own private ends; and it may be, bring ſome truth to light for the good of the Publique, which hath been long obſcure or doubtful. Humbly proteſting here, before your Honors, againſt them, That whatſoever Queres we propound, ſhall not by them in ſufficient time (not exceeding Three Moneths) be
+punctually anſwered, ſhall be holden thence-forth as confeſſed; promiſing hereby unto them the like condition againſt our ſelves, we having the equal benefit of the Preſs, competent means of Subſiſtance and Moneys to Printers.</p>
+            <p>By which means their manifold deceitful dealings and unjuſt Levelings, chiefly of the ſecond Party abovementioned, not onely in ſpiritual Matters againſt me, though he was preferred to an Office at <hi>Worceſter</hi>-houſe by my procurement, but likewiſe in Civil mat<g ref="char:EOLhyphen"/>ters there, againſt many both poor and rich; for which he was moſt juſtly, by direction of the Tru<g ref="char:EOLhyphen"/>ſtees, expulſed both from his Office and Lodgings, ſhall in ſhort time be made to appear; yea, and whe<g ref="char:EOLhyphen"/>ther he with the reſt above ſpecified, or we, have act<g ref="char:EOLhyphen"/>ed
+<pb n="16" facs="tcp:117347:9"/>and ſuffered moſt, ſought their own profit leaſt, of walked according to their principles beſt, in relation to the Publique, both before and during all theſe troubles; and ſo by conſequence of ſuch trying of Titles, it will likewiſe appear, Whether they or we de<g ref="char:EOLhyphen"/>ſerve beſt, to be called <hi>True, Conſtant, Faithful</hi> and <hi>Honeſt.</hi>
+            </p>
+            <p>
+               <hi>So by this Your Honors juſt aſsiſting and protect<g ref="char:EOLhyphen"/>ing the Weak in their juſt cauſe againſt the ſtrong, chiefly in that they are made weak by the others ſtrength obtained by their means; both we and all others will be the more encouraged ſtill to adven<g ref="char:EOLhyphen"/>ture our lives, and all thats either neareſt or dear<g ref="char:EOLhyphen"/>eſt to us in advancing the Commonwealth; and pray for your Honors whiles we enjoy life or breath.</hi>
+            </p>
+            <closer>
+               <signed>DAVID BRVVON.</signed>
+            </closer>
+            <trailer>For himſelf, and in the behalf of his Family, <hi>viz.</hi> His Wife, Daughters and Servants, where<g ref="char:EOLhyphen"/>of <hi>Francis Jones</hi> (who deceaſed about Seven years ago) was one at that time.</trailer>
+         </div>
+         <div type="postscript">
+            <p>This was delivered (cloſely and curiouſly Written on a quarter ſheet) to a Honorable <hi>Member</hi> of the Parliament, to be preſented unto them upon the 19<hi rend="sup">th</hi> day of the Tenth moneth (called <hi>December</hi>) 1651. Without ſoliciting of any, both the <hi>Matter</hi> and <hi>Deſire</hi> being ſo equitable.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
